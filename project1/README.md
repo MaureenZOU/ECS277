@@ -35,3 +35,29 @@ python main.py
 ```
 
 ## Advanced experiments
+
+### Dependencies
+- Python >=3.5
+- PyQt5 (>=5.6)
+- PyOpenGL
+- numpy
+- ModernGL wrapper [docs](https://moderngl.readthedocs.io/)
+- Pyrr Math library [docs](http://pyrr.readthedocs.io/en/latest/info_contributing.html)
+
+
+### Installation
+
+```
+git clone https://github.com/ulricheck/ModernGL-Volume-Raycasting-Example.git
+cd ModernGL-Volume-Raycasting-Example
+pip3 install -r requirements.txt
+```
+
+### Running the demo
+
+```
+cd advanced/ModernGL-Volume-Raycasting-Example
+python3 volume_raycasting_example.py
+```
+
+Reference: https://github.com/ulricheck/ModernGL-Volume-Raycasting-Example/blob/master/README.md
