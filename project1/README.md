@@ -1,6 +1,6 @@
-# ECS277
+# Project 1
 
-## Usage
+## Basic experiments
 
 ### install
 python3.0 +
@@ -33,3 +33,5 @@ cfg = Config({
 ```bash
 python main.py
 ```
+
+## Advanced experiments
