@@ -1,0 +1,1 @@
+from render.render import render_image
