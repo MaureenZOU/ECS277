@@ -8,6 +8,7 @@ python3.0 +
 ```
 pip install opencv-python
 pip install numpy
+pip install matplotlib
 pip install torch==1.2.0
 ```
 
